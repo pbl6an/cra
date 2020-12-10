@@ -1,7 +1,7 @@
 {
-    "name": "cloudflare-worker-cra",
+    "name": "cra",
     "version": "0.1.0",
-    "author": "Juuso Lappalainen",
+
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
         "@testing-library/react": "^9.3.2",
